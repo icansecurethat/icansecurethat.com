@@ -1,7 +1,8 @@
-title: Jekyll theme ASCII
-author:
-  name: Antonio Vázquez Blanco
-description: This is a simple Jekyll theme that relies mostly on ASCII characters. And maybe emojis :).
+title: icansecurethat.com
+author: icansecurethat
+  name: icansecurethat
+description: >- 
+  Personal cybersecurity blog and research posts.
 
 plugins:
  - jekyll-feed
