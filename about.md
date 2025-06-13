@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# About this
+# About This Site
 
 <div style="text-align: center;">
 <pre>
