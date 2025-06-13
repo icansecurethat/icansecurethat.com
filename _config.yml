@@ -1,0 +1,14 @@
+title: Jekyll theme ASCII
+author:
+  name: Antonio Vázquez Blanco
+description: This is a simple Jekyll theme that relies mostly on ASCII characters. And maybe emojis :).
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+
+exclude:
+ - LICENSE.txt
+ - README.md
+ - '*.gemspec'
+ - '*.gem'
