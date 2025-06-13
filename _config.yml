@@ -1,8 +1,7 @@
 title: icansecurethat.com
 author: icansecurethat
   name: icansecurethat
-description: >- 
-  Personal cybersecurity blog and research posts.
+description: Personal cybersecurity blog and research posts.
 
 plugins:
  - jekyll-feed
