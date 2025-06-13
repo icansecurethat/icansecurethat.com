@@ -44,11 +44,9 @@ permalink: /about/
 </pre>
 </div>
 
-This site collects research, notes, and tools related to cybersecurity. It’s maintained by *icansecurethat* and updated as time allows.
 
 This site collects research, notes, and tools related to cybersecurity. 
 
-It’s maintained by icansecurethat and updated as time allows. 
+It’s maintained by *icansecurethat* and updated as time allows. 
 
 Topics range from offensive techniques to defensive automation and general security engineering.
-
