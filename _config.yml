@@ -1,14 +1,19 @@
 title: icansecurethat.com
-author: icansecurethat
+author:
   name: icansecurethat
 description: Personal cybersecurity blog and research posts.
 
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-seo-tag
 
 exclude:
- - LICENSE.txt
- - README.md
- - '*.gemspec'
- - '*.gem'
+  - LICENSE.txt
+  - README.md
+  - '*.gemspec'
+  - '*.gem'
+
+remote_theme: antoniovazquezblanco/jekyll-theme-ascii
+
+url: "https://icansecurethat.github.io"
+baseurl: "/icansecurethat.com"
