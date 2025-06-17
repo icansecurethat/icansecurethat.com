@@ -5,7 +5,7 @@ permalink: /posts/
 nav_order: 3
 ---
 
-<div style="text-align: center;">
+<div style="overflow-x: auto; white-space: pre; font-family: monospace;">
 <pre>
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⢋⣥⣶⣦⡙⢿⣿⣿ 
 ⣿⣿⣿⣿⣿⣿⣿⠋⢐⡛⢿⣿⣿⣿⣿⣷⡘⢿  What's reality? I don't know. When my bird was looking at my computer monitor,
@@ -19,9 +19,6 @@ nav_order: 3
 ⣿⣿⣿⠇⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⣿  "I can figure this out!"
 ⣿⣿⡟⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢰⣿  Maybe you have some bird ideas. Maybe that's the best you can do.
 ⣿⡟⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢱⣿⣿   ~ Terry A. Davis
-⣇⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣇⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⠀⠀
 </pre>
 </div>
-
-
-
