@@ -5,6 +5,8 @@ permalink: /posts/
 nav_order: 3
 ---
 
+<div style="text-align: center;">
+<pre>
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⢋⣥⣶⣦⡙⢿⣿⣿ 
 ⣿⣿⣿⣿⣿⣿⣿⠋⢐⡛⢿⣿⣿⣿⣿⣷⡘⢿  What's reality? I don't know. When my bird was looking at my computer monitor,
 ⣿⣿⣿⣿⣿⣿⠇⡆⡇⡸⢸⣿⠟⣛⣛⠻⢿⡆  I thought "Whoa! That bird has no idea what he's looking at!"
@@ -17,4 +19,9 @@ nav_order: 3
 ⣿⣿⣿⠇⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⣿  "I can figure this out!"
 ⣿⣿⡟⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢰⣿  Maybe you have some bird ideas. Maybe that's the best you can do.
 ⣿⡟⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢱⣿⣿   ~ Terry A. Davis
-⣇⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿
+⣇⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+</pre>
+</div>
+
+
+
