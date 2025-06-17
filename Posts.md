@@ -5,8 +5,8 @@ permalink: /posts/
 nav_order: 3
 ---
 
-<div style="overflow-x: auto; white-space: pre; font-family: monospace;">
-<pre>
+<div style="font-family: monospace; font-size: 12px; white-space: pre-wrap; word-break: break-word;">
+<pre style="margin: 0;">
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⢋⣥⣶⣦⡙⢿⣿⣿ 
 ⣿⣿⣿⣿⣿⣿⣿⠋⢐⡛⢿⣿⣿⣿⣿⣷⡘⢿  What's reality? I don't know. When my bird was looking at my computer monitor,
 ⣿⣿⣿⣿⣿⣿⠇⡆⡇⡸⢸⣿⠟⣛⣛⠻⢿⡆  I thought "Whoa! That bird has no idea what he's looking at!"
